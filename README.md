@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Abdul Rafay Hakeem from Karachi
-- 👀 I’m interested in AI, ML and Blockchain
+- 👀 I’m interested in Network, Cyber Security and Blockchain and currently training for CCNA and ICS 2
 - 🌱 I’m currently learning Bachelors of Computer Science from Muhammad Ali Jinnah University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://www.linkedin.com/in/rafay-hakeem/ 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate with people working on face recognition, blockchain security and web3. 
+- 📫 How to reach me: https://www.linkedin.com/in/rafay-hakeem/ or email at rafay.hakeem@hotmail.com 
